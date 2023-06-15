@@ -1,0 +1,24 @@
+name: com.code-philosophy.hybridclr
+displayName: HybridCLR
+description: >-
+  HybridCLR is a fully featured, zero-cost, high-performance, low-memory
+  solution for Unity's all-platform native c# hotupdate.
+repoUrl: 'https://github.com/focus-creative-games/hybridclr_unity'
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - dots-and-ecs
+  - frameworks
+  - integration
+  - mobile
+hunter: pirunxi
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'main:README.md'
+readme_zhCN: 'main:README.md'
+displayName_zhCN: HybridCLR
+description_zhCN: HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更方案
+createdAt: 1686809932103
